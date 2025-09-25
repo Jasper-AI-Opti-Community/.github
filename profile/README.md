@@ -12,15 +12,9 @@
 
 ## 🛠 Resources
 
-  <div align="center">
-  <a href="https://github.com/Jasper-AI-Opti_Community/Jasper-AI-Opti-Pack" target="_blank">
-    <img src="https://img.shields.io/badge/Access-Tools-3498db" alt="Access-Tools" width="400" height="85" style="border:none;">
-  </a>
-</div>
-
-  <div align="center">
+ <div align="center">
   <a href="https://github.com/Jasper-AI-Opti-Community/Jasper-AI-Opti-Pack" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Community-3498db" alt="Join-Community" width="400" height="85" style="border:none;">
+    <img src="https://img.shields.io/badge/Join-Community-3498db" alt="Join-Community" width="300" height="70" style="border:none;">
   </a>
 </div>
 
